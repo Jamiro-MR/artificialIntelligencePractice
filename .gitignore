@@ -1,0 +1,15 @@
+
+*.11
+*.pyc
+env/bin/activate
+*.csh
+*.fish
+*.ps1
+*.cfg
+env/bin/f2py
+env/bin/f2py3
+env/bin/pip
+env/bin/pip3
+env/bin/python
+env/bin/python3
+env/lib64
